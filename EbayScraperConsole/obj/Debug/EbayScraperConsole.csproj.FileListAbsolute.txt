@@ -1,0 +1,11 @@
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\EbayScraperConsole.exe.config
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\EbayScraperConsole.exe
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\EbayScraperConsole.pdb
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\EbayScraperConsole.csprojAssemblyReference.cache
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\EbayScraperConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\EbayScraperConsole.exe
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\EbayScraperConsole.pdb
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Vinh\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\EbayScraperConsole.csproj.CopyComplete
